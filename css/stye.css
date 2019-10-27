@@ -1,3 +1,8 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
 html,
 body {
   height: 175% !important;
@@ -6,4 +11,8 @@ body {
 header {
   height: 4em;
   background: #845;
+}
+
+#nav {
+  margin: 5%;
 }
