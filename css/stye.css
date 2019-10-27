@@ -1,4 +1,9 @@
+html,
 body {
-    background: blue;
-    color: white;
+  height: 175% !important;
+}
+
+header {
+  height: 4em;
+  background: #845;
 }
